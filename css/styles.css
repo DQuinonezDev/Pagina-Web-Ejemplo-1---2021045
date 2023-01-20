@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+}
+
+.title {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#texto {
+    color: rgb(178, 70, 70);
+}
+
+#kinals {
+    text-align: center;
+}
